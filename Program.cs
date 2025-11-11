@@ -1,4 +1,4 @@
-using AdminDash.Components;
+using test_group_repo;
 
 var builder = WebApplication.CreateBuilder(args);
 
